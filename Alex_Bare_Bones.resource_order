@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"spr_enemy","order":1,"path":"sprites/spr_enemy/spr_enemy.yy",},
+    {"name":"Spr_floor","order":2,"path":"sprites/Spr_floor/Spr_floor.yy",},
+    {"name":"Spr_play_button","order":3,"path":"sprites/Spr_play_button/Spr_play_button.yy",},
+    {"name":"Spr_Player","order":4,"path":"sprites/Spr_Player/Spr_Player.yy",},
+    {"name":"Sprite6","order":5,"path":"sprites/Sprite6/Sprite6.yy",},
+  ],
+}
